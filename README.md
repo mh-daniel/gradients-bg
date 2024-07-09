@@ -1,3 +1,5 @@
-# Animated Morphing Gradients Background
+# Mesh Gradients Background 
 
-CSS Animations + SVG Effects
+
+Very Subtle Noise effect and white blurry blobs moving randomly
+on top of multi-shade gradient.
